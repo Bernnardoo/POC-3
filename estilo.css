@@ -1,0 +1,392 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ff9100;
+    text-align: center;
+    clear: both;
+    height: 800px;
+}
+
+.caixa1,.caixa2,.caixa3,.caixa4,.caixa5,.caixa6,
+.caixa7,.caixa8,.caixa9,
+.caixa10,.caixa11,.caixa12,
+.caixa13,.caixa14,.caixa15,
+.caixa16,.caixa17,.caixa18,
+.caixa19,.caixa20,.caixa21,
+.caixa22,.caixa23,.caixa24,
+.caixa25,.caixa26,.caixa27,
+.caixa28,.caixa29,.caixa30
+{
+
+    padding: 10px;
+    margin-top: 100px;
+    border: 1px solid red;
+    height: 5%;
+    width: 2%;
+    float: left;
+    background-color: green;
+    border-radius: 50%;
+
+}
+
+
+
+@media (max-width: 765px) {
+    .caixa1{
+    background-color: yellow;
+    }
+    .caixa2{
+        background-color: yellow;
+    }
+     .caixa3{
+    background-color: yellow;
+    }
+    .caixa4{
+        background-color: yellow;
+    }
+     .caixa5{
+    background-color: yellow;
+    }
+    .caixa6{
+        background-color: yellow;
+    }
+     .caixa7{
+    background-color: yellow;
+    }
+    .caixa8{
+        background-color: yellow;
+    }
+     .caixa9{
+    background-color: yellow;
+    }
+    .caixa10{
+        background-color: yellow;
+    }
+
+    /*------------------------------------------------------------*/
+    .caixa11{
+    background-color: rgb(0, 255, 234);
+    }
+    .caixa12{
+    background-color: rgb(0, 255, 234);
+    }
+    .caixa13{
+    background-color: rgb(0, 255, 234);
+    }
+    .caixa14{
+    background-color: rgb(0, 255, 234);
+    }
+    .caixa15{
+    background-color: rgb(0, 255, 234);
+    }
+    .caixa16{
+    background-color: rgb(0, 255, 234);
+    }
+ .caixa17{
+    background-color: rgb(0, 255, 234);
+    }
+     .caixa18{
+    background-color: rgb(0, 255, 234);
+    }
+     .caixa19{
+    background-color: rgb(0, 255, 234);
+    }
+     .caixa20{
+    background-color: rgb(0, 255, 234);
+    }
+   /*----------------------------------------------------------------------*/
+
+   .caixa21{
+    background-color: rgb(255, 0, 200);
+    }
+    .caixa22{
+    background-color: rgb(255, 0, 200);
+    }
+    .caixa23{
+    background-color: rgb(255, 0, 200);
+    }
+    .caixa24{
+    background-color: rgb(255, 0, 200);
+    }
+    .caixa25{
+    background-color: rgb(255, 0, 200);
+    }
+    .caixa26{
+    background-color: rgb(255, 0, 200);
+    }
+    .caixa27{
+    background-color: rgb(255, 0, 200);
+    }
+    .caixa28{
+    background-color: rgb(255, 0, 200);
+    }
+    .caixa29{
+    background-color: rgb(255, 0, 200);
+    }
+    .caixa30{
+    background-color: rgb(255, 0, 200);
+    }
+    
+
+    
+
+
+    
+    
+
+
+    
+
+
+    
+}
+
+
+
+
+
+@media (min-width: 768px ) and ( max-width:991px) {
+    .caixa1{
+    background-color: rgb(128, 0, 0);
+    }
+    .caixa2{
+        background-color: rgb(128, 0, 0);
+    }
+     .caixa3{
+    background-color: rgb(128, 0, 0);
+    }
+    .caixa4{
+        background-color: rgb(128, 0, 0);
+    }
+     .caixa5{
+    background-color: rgb(128, 0, 0);
+    }
+    .caixa6{
+        background-color: rgb(128, 0, 0);
+    }
+     .caixa7{
+    background-color: rgb(128, 0, 0);
+    }
+    .caixa8{
+        background-color: rgb(128, 0, 0);
+    }
+     .caixa9{
+    background-color: rgb(128, 0, 0);
+    }
+    .caixa10{
+        background-color: rgb(128, 0, 0);
+    }
+
+    /*------------------------------------------------------------*/
+    .caixa11{
+    background-color: rgb(216, 66, 12);
+    }
+    .caixa12{
+    background-color: rgb(216, 66, 12);
+    }
+    .caixa13{
+    background-color:rgb(216, 66, 12);
+    }
+    .caixa14{
+    background-color: rgb(216, 66, 12);
+    }
+    .caixa15{
+    background-color: rgb(216, 66, 12);
+    }
+    .caixa16{
+    background-color: rgb(216, 66, 12);
+    }
+ .caixa17{
+    background-color:rgb(216, 66, 12);
+    }
+     .caixa18{
+    background-color: rgb(216, 66, 12);
+    }
+     .caixa19{
+    background-color: rgb(216, 66, 12);
+    }
+     .caixa20{
+    background-color:rgb(216, 66, 12);
+    }
+   /*----------------------------------------------------------------------*/
+
+   .caixa21{
+    background-color: rgb(200, 255, 0);
+    }
+    .caixa22{
+    background-color: rgb(200, 255, 0);
+    }
+    .caixa23{
+    background-color: rgb(200, 255, 0);
+    }
+    .caixa24{
+    background-color:rgb(200, 255, 0);
+    }
+    .caixa25{
+    background-color: rgb(200, 255, 0);
+    }
+    .caixa26{
+    background-color:rgb(200, 255, 0);
+    }
+    .caixa27{
+    background-color: rgb(200, 255, 0);
+    }
+    .caixa28{
+    background-color: rgb(200, 255, 0);
+    }
+    .caixa29{
+    background-color: rgb(200, 255, 0);
+    }
+    .caixa30{
+    background-color: rgb(200, 255, 0);
+    }
+    
+
+    
+
+
+    
+    
+
+
+    
+
+
+    
+}
+
+
+
+
+
+@media (min-width: 992px) and (max-width:1199px) {
+    .caixa1{
+    background-color: rgb(38, 0, 128);
+    }
+    .caixa2{
+        background-color: rgb(38, 0, 128);
+    }
+     .caixa3{
+    background-color: rgb(38, 0, 128);
+    }
+    .caixa4{
+        background-color: rgb(38, 0, 128);
+    }
+     .caixa5{
+    background-color:rgb(38, 0, 128);
+    }
+    .caixa6{
+        background-color: rgb(38, 0, 128);
+    }
+     .caixa7{
+    background-color: rgb(38, 0, 128);
+    }
+    .caixa8{
+        background-color: rgb(38, 0, 128);
+    }
+     .caixa9{
+    background-color: rgb(38, 0, 128);
+    }
+    .caixa10{
+        background-color: rgb(38, 0, 128);
+    }
+
+    /*------------------------------------------------------------*/
+    .caixa11{
+    background-color: rgb(12, 151, 216);
+    }
+    .caixa12{
+    background-color: rgb(12, 151, 216);
+    }
+    .caixa13{
+    background-color:rgb(12, 151, 216);
+    }
+    .caixa14{
+    background-color: rgb(12, 151, 216);
+    }
+    .caixa15{
+    background-color: rgb(12, 151, 216);
+    }
+    .caixa16{
+    background-color: rgb(12, 151, 216);
+    }
+ .caixa17{
+    background-color:rgb(12, 151, 216);
+    }
+     .caixa18{
+    background-color: rgb(12, 151, 216);
+    }
+     .caixa19{
+    background-color: rgb(12, 151, 216);
+    }
+     .caixa20{
+    background-color:rgb(12, 151, 216);
+    }
+   /*----------------------------------------------------------------------*/
+
+   .caixa21{
+    background-color: rgb(98, 0, 255);
+    }
+    .caixa22{
+    background-color: rgb(98, 0, 255);
+    }
+    .caixa23{
+    background-color: rgb(98, 0, 255);
+    }
+    .caixa24{
+    background-color:rgb(98, 0, 255);
+    }
+    .caixa25{
+    background-color: rgb(98, 0, 255);
+    }
+    .caixa26{
+    background-color:rgb(98, 0, 255);
+    }
+    .caixa27{
+    background-color: rgb(98, 0, 255);
+    }
+    .caixa28{
+    background-color:rgb(98, 0, 255);
+    }
+    .caixa29{
+    background-color: rgb(98, 0, 255);
+    }
+    .caixa30{
+    background-color: rgb(98, 0, 255);
+    }
+    
+
+    
+
+
+    
+    
+
+
+    
+
+
+    
+}
+
+
+@media(min-width:1200px){
+    .caixa1,.caixa2,.caixa3,.caixa4,.caixa5,.caixa6,
+.caixa7,.caixa8,.caixa9,
+.caixa10,.caixa11,.caixa12,
+.caixa13,.caixa14,.caixa15,
+.caixa16,.caixa17,.caixa18,
+.caixa19,.caixa20,.caixa21,
+.caixa22,.caixa23,.caixa24,
+.caixa25,.caixa26,.caixa27,
+.caixa28,.caixa29,.caixa30{
+        background-color: green;
+    }
+}
+
+

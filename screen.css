@@ -1,0 +1,25 @@
+p{
+    font-size: 30px;
+    font-weight: bold;
+    color: yellow;
+    border-bottom: black;
+}
+.amarela{
+    background-color: blue;
+}
+
+body{
+    text-align:  center;
+    border-bottom: black;
+}
+
+
+div{
+    border: 1px solid black;
+}
+
+
+
+h1{
+    color: tomato;
+}
